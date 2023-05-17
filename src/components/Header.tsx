@@ -8,7 +8,7 @@ export default function Header() {
   }
   return (
     <>
-      <header className="absolute w-full flex justify-between px-4 py-6">
+      <header className="absolute w-full flex justify-between px-6 py-8">
         <Logo />
         <nav
           className={`md:flex max-md:absolute max-md:top-[100px] max-md:z-50 max-md:w-full max-md:px-4 max-md:left-0 max-md:origin-top-right max-md:duration-300 max-md:transition-all ${
