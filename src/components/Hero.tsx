@@ -3,7 +3,7 @@ import ArrowDownIcon from './ArrowDownIcon';
 export default function Hero() {
   return (
     <>
-      <section className="bg-cover bg-bottom md:bg-[url('../public/images/desktop/image-header.jpg')] bg-[url('../public/images/mobile/image-header.jpg')] h-screen flex flex-col justify-center items-center">
+      <section className="bg-cover bg-bottom md:bg-[url('../public/images/desktop/image-header.jpg')] bg-[url('../public/images/mobile/image-header.jpg')] md:h[800px] h-[538px] flex flex-col justify-center items-center">
         <div className="flex flex-col items-center gap-y-24 md:mb-48 mb-24 px-4">
           <h1 className="md:text-[56px] text-[40px] text-white font-body uppercase tracking-widest text-center">
             We are creatives
