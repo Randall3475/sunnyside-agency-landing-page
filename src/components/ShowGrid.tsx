@@ -12,7 +12,7 @@ export default function ShowGrid() {
       <section className="grid md:grid-cols-2 mx-auto font-display">
         <div className="max-md:order-2 flex justify-center items-center md:p-4 p-8 py-20">
           <div className="flex flex-col gap-y-8 max-w-[25rem] max-md:text-center max-md:items-center">
-            <h2 className="font-body text-very-dark-desaturated-blue font-extrabold text-3xl">
+            <h2 className="font-body text-very-dark-desaturated-blue font-extrabold text-[40px]">
               Transform your brand
             </h2>
             <p className="font-display text-dark-grayish-blue text-[17px]">
@@ -50,7 +50,7 @@ export default function ShowGrid() {
         </div>
         <div className="max-md:order-4 flex justify-center items-center md:p-4 p-8 py-20">
           <div className="flex flex-col gap-y-8 max-w-[25rem] max-md:text-center max-md:items-center">
-            <h2 className="font-body text-very-dark-desaturated-blue font-extrabold text-3xl">
+            <h2 className="font-body text-very-dark-desaturated-blue font-extrabold text-[40px]">
               Stand out to the right audience
             </h2>
             <p className="font-display text-dark-grayish-blue text-[17px]">
