@@ -15,7 +15,7 @@ export default function ShowGrid() {
             <h2 className="font-body text-very-dark-desaturated-blue font-extrabold text-[40px]">
               Transform your brand
             </h2>
-            <p className="font-display text-dark-grayish-blue text-[17px]">
+            <p className="font-display text-dark-grayish-blue text-lg">
               We are a full-service creative agency specializing in helping
               brands grow fast. Engage your clients thrugh compelling visuals
               that do most of the marketing for you.
@@ -53,7 +53,7 @@ export default function ShowGrid() {
             <h2 className="font-body text-very-dark-desaturated-blue font-extrabold text-[40px]">
               Stand out to the right audience
             </h2>
-            <p className="font-display text-dark-grayish-blue text-[17px]">
+            <p className="font-display text-dark-grayish-blue text-lg">
               Using a collaborative formula of designers, researchers,
               photographers, videographers, and copywriters, we'll build and
               extend your brand in digital places.
