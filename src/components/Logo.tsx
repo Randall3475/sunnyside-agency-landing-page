@@ -1,5 +1,5 @@
 type LogoProps = {
-  inverted: boolean;
+  inverted?: boolean;
 };
 
 export default function Logo({ inverted }: LogoProps) {
